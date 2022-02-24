@@ -53,12 +53,4 @@
 
 ---
 
-## 🔧 Pré-requesitos
-
-Você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[GIT](https://git-scm.com/), [Node.js](https://nodejs.org/en/) e [MySQL](https://www.mysql.com/)
-Além disto, é bom ter um editor para trabalhar com o código como [VScode](https://code.visualstudio.com/);
-
----
-
 Desenvolvido 💜 por Alexandre Miguel [See my LinkedIn](https://www.linkedin.com/in/alexandre-miguel-6969b6209/)
