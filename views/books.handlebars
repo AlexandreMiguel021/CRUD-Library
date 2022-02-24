@@ -1,0 +1,43 @@
+<div class="container">
+
+  {{#if data}}
+  <h1 class='title'>Livros disponíveis:</h1>
+  {{else}}
+  <h1 class='title'>Não há livros para ser exibidos!</h1>
+  {{/if}}
+
+  {{#if data}}
+  <table>
+
+    <thead>
+      <tr>
+        <th>ID</th>
+        <th>Título</th>
+        <th>Páginas</th>
+      </tr>
+    </thead>
+
+    <tbody>
+
+      {{#each data}}
+      <tr>
+        <td>{{this.id}}</td>
+        <td>{{this.title}}</td>
+        <td>{{this.pageqty}}</td>
+        <td class='edit'><a href="/books/edit/{{this.id}}">Editar</a></td>
+
+        <td class='remove'>
+          <form action="/books/remove/{{this.id}}" method="post">
+            <button type='submit'>Apagar</button>
+          </form>
+
+        </td>
+      </tr>
+      {{/each}}
+
+    </tbody>
+
+  </table>
+  {{/if}}
+
+</div>
