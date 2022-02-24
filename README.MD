@@ -29,15 +29,13 @@
 
 ## **🚀 Tecnologias utilizadas**
 
-<br>
+- [Node.js](https://nodejs.org/)
 
-- [**Node.js**](https://nodejs.org/)
+- [Express](https://expressjs.com/pt-br/)
 
-- [**Express**](https://expressjs.com/pt-br/)
+- [MySQL](https://www.mysql.com/)
 
-- [**MySQL**](https://www.mysql.com/)
-
-- [**Handlebars**](https://handlebarsjs.com/)
+- [Handlebars](https://handlebarsjs.com/)
 
 ---
 
