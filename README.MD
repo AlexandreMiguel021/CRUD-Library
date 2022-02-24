@@ -29,17 +29,15 @@
 
 ## **🚀 Tecnologias utilizadas**
 
-### **Node.js, Express, MySQL e Handlebars.**
-
 <br>
 
-- [<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />](https://nodejs.org/)
+- [**Node.js**](https://nodejs.org/)
 
-- [<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />](https://expressjs.com/pt-br/)
+- [**Express**](https://expressjs.com/pt-br/)
 
-- [<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />](https://www.mysql.com/)
+- [**MySQL**](https://www.mysql.com/)
 
-- [<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handlebars/handlebars-original.svg)
+- [**Handlebars**](https://handlebarsjs.com/)
 
 ---
 
