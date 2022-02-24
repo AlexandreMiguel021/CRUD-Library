@@ -39,10 +39,10 @@
 
 - [<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />](https://www.mysql.com/)
 
-- [<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handlebars/handlebars-original-wordmark.svg"/>
-  ](https://handlebarsjs.com/)
+- [<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handlebars/handlebars-original.svg)
 
 ---
+
 
 <br>
 
